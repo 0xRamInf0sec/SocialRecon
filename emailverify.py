@@ -8,7 +8,7 @@ W = '\033[0m'
 def email():
     dictemail={}
     email=input("Enter email address to check : ")
-    url="https://app.verify-email.org/api/v1/mFyMW4NCYyyI8mRcK3mIzkIYNu1BnWskMNPabWyOJU007FVH1I/verify/"+email
+    url="https://app.verify-email.org/api/v1/Your-api-key/verify/"+email
     r=requests.get(url)
     dictemail=r.json()
     print("Email : ",dictemail.get('email'))
