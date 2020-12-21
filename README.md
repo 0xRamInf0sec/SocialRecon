@@ -5,9 +5,20 @@ This is an Open source intelligence tool and used to gather information about so
 
 # Main Features
 
+<h4> Image recon </h4>
+
 - Social media accounts finding using image
+
+<h4> Email verifier </h4>
+
 - Tells whether the email address is found or not
+
+<h4> Meta data extractor </h4>
+
 - GPS location extractor in image
+
+<h4> Username checker in Social media's </h4>
+
 - Tells whether the victim name is found in social media's
 
 # Drop a star for this tool.Kindly share with your friends.
