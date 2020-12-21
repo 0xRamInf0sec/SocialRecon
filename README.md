@@ -1,4 +1,9 @@
-# SocialRecon
+
+<p align="center">
+  <img width="75" height="75" src="https://github.com/Ramalingasamy012/SocialRecon/blob/main/SOCIAL%20RECON(2).png">
+</p>
+
+<h1 align="center">SocialRecon</h1>
 
 This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 <hr>
@@ -21,4 +26,4 @@ This is an Open source intelligence tool and used to gather information about so
 
 - Tells whether the victim name is found in social media's
 
-# Drop a star for this tool.Kindly share with your friends.
+# Drop a star for this tool.
