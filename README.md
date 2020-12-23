@@ -8,6 +8,10 @@ This is an Open source intelligence tool which is used to gather an information 
 This tool is built without an any of the API except virustotal.
 <hr>
 
+# Author
+
+ - <b>Ramalingasamy M K</b> 
+  
 # Main Features
 
 <h4> Image recon </h4>
