@@ -12,6 +12,7 @@ from username import username
 from iplocator import iplocate
 from Instagraminfo import instainfo
 from webscrap import Links
+from NameInfo import Nameinfo
 R = '\033[31m' 
 G = '\033[32m'
 C = '\033[36m'
@@ -37,6 +38,8 @@ def reconinput():
         pdfinfo()
     elif(inp=='9'):
         Links()
+    elif (inp=='10'):
+        Nameinfo()
     elif(inp=='exit'):
         exit()
     else:
@@ -81,8 +84,7 @@ if __name__=="__main__":
             7.URL lookup
             8.PDF meta data analysis
             9.URL lookup in webpages
-            
-            
+            10.Information Gathering using Name
             usage : type exit to stop
             """)
     print('')
